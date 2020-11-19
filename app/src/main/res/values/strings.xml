@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IntentProject</string>
+    <string name="s_r"><![CDATA[S & R]]></string>
+    <string name="count">Count</string>
+    <string name="toast">Toast</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
 </resources>
